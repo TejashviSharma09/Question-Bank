@@ -1,0 +1,14 @@
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/bin/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.deps.json
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/bin/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.dll
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/bin/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.pdb
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.csproj.AssemblyReference.cache
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.AssemblyInfoInputs.cache
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.AssemblyInfo.cs
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.csproj.CoreCompileInputs.cache
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.dll
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/refint/Infosys.DBFirstCore.DataAccessLayer.dll
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.pdb
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/ref/Infosys.DBFirstCore.DataAccessLayer.dll
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/bin/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.runtimeconfig.json
+/home/tej/Desktop/Infosys.QB_Project/Infosys.DBFirstCore.DataAccessLayer/obj/Debug/net6.0/Infosys.DBFirstCore.DataAccessLayer.genruntimeconfig.cache
